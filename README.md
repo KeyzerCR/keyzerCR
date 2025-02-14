@@ -1,6 +1,7 @@
 # Olá, eu sou Keyzer!. 👋
 
 ## Sobre mim
+- 💼 15y
 - 🎓 Jr. Developer
 - 🌱 Atualmente aprendendo JavaScript, Python, HTML, CSS e C
 - 💼 Buscando oportunidades para crescer na área de desenvolvimento
